@@ -1,15 +1,20 @@
-# Nerfies
+# VLA-Adapter
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+<p align="center">
+    <img src="https://huggingface.co/datasets/VLA-Adapter/Figures/resolve/main/Logo.png" width="800"/>
+<p>
+
+This is the repository that contains source code for the [VLA-Adapter Project Page](https://vla-adapter.github.io/).
 
 If you find Nerfies useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{Wang2025VLAAdapter,
+  author = {Wang, Yihao and Ding, Pengxiang and Li, Lingxiao and Cui, Can and Ge, Zirui and Tong, Xinyang and Song, Wenxuan and Zhao, Han and Zhao, Wei and Hou, Pengxu and Huang, Siteng and Tang, Yifan and Wang, Wenhui and Zhang, Ru and Liu, Jianyi and Wang, Donglin},
+  title = {VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model},
+  journal = {ArXiv},
+  year = {2025}
 }
+
 ```
 
 # Website License
