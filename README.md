@@ -6,7 +6,7 @@
 
 This is the repository that contains source code for the [VLA-Adapter Project Page](https://vla-adapter.github.io/).
 
-If you find Nerfies useful for your work please cite:
+If you find VLA-Adapter useful for your work please cite:
 ```
 @article{Wang2025VLAAdapter,
   author = {Wang, Yihao and Ding, Pengxiang and Li, Lingxiao and Cui, Can and Ge, Zirui and Tong, Xinyang and Song, Wenxuan and Zhao, Han and Zhao, Wei and Hou, Pengxu and Huang, Siteng and Tang, Yifan and Wang, Wenhui and Zhang, Ru and Liu, Jianyi and Wang, Donglin},
