@@ -6,6 +6,13 @@
 
 This is the repository that contains source code for the [VLA-Adapter Project Page](https://vla-adapter.github.io/).
 
+📌 All content is now open source:
+🖥️ Project page: https://vla-adapter.github.io/
+📝 Paper: https://arxiv.org/abs/2509.09372
+Github: https://github.com/OpenHelix-Team/VLA-Adapter
+🤗 Model: https://huggingface.co/VLA-Adapter
+
+
 If you find VLA-Adapter useful for your work please cite:
 ```
 @article{Wang2025VLAAdapter,
