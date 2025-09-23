@@ -697,14 +697,16 @@
         <!---------------------->
         <div class="container is-max-desktop" style="margin-top: 0rem;">
           <figure style="text-align: center; font-size: 19px;">
-            <figcaption><b>Table 5.</b> Comparison on the LIBERO benchmark. <b>Bold</b> represents the best performance.
-              <i><u>Italics*</u></i> represents <br>suboptimal performance. † represents that the non-based-VLM baselines.
-              "Scratch" represents the work <br>without pre-training on robotic data. "Params" is the backbone scale,
-              and its unit is <b>B</b>illion. The performance <br>of
+            <figcaption><b>Table 5.</b> Comparison on the LIBERO benchmark. <b>Bold*</b> represents the best performance,
+              <b>Bold</b> is the suboptimal performance, and
+              <i><u>Italics</u></i> is the third best performance. † represents that the non-based-VLM baselines.
+              "Scratch" represents the work without pre-training on robotic data. "Params" is the backbone scale,
+              and its unit is <b>B</b>illion. The performance of
               <a href="https://arxiv.org/abs/2503.14734"
                  target="_blank" rel="noopener" title="GR00T N1">
                 GR00T N1</a>
-              is obtained by full-parameter fine-tuning.
+              is obtained by full-parameter fine-tuning. Recently, we have updated the VLA-Adapter-Pro model.
+              Its Policy architecture is the same as Figure 2, and we optimized the implementation.
             </figcaption>
             <img src="./static/images/ComLIBERO.png" alt="Framework" style="width: 870px;" />
           </figure>
@@ -723,9 +725,11 @@
         <!---------------------->
         <div class="container is-max-desktop" style="margin-top: 0rem;">
           <figure style="text-align: center; font-size: 19px;">
-            <figcaption><b>Table 6.</b> Comparison on the CALVIN ABC→D benchmark. <b>Bold</b> represents the best
-              performance. <i><u>Italics*</u></i> <br>represents the suboptimal performance. † represents that the
-              non-based-VLM method. "Params" is the <br>backbone scale, and its unit is <b>B</b>illion.
+            <figcaption><b>Table 6.</b> Comparison on the CALVIN ABC→D benchmark. <b>Bold*</b> represents the best performance,
+              <b>Bold</b> is the suboptimal performance, and
+              <i><u>Italics</u></i> is the third best performance. † represents that the
+              non-based-VLM method. "Params" is the backbone scale, and its unit is <b>B</b>illion. Recently, we have updated the VLA-Adapter-Pro model.
+              Its Policy architecture is the same as Figure 2, and we optimized the implementation.
             </figcaption>
             <img src="./static/images/ComCALVIN.png" alt="Framework" style="width: 870px;" />
           </figure>
