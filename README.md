@@ -6,21 +6,22 @@
 
 This is the repository that contains source code for the [VLA-Adapter Project Page](https://vla-adapter.github.io/).
 
-📌 All content is now open source:
+📌 All contents are now open source:
 >🖥️ Project page: https://vla-adapter.github.io/<br/>
 >📝 Paper: https://arxiv.org/abs/2509.09372<br/>
 >Github: https://github.com/OpenHelix-Team/VLA-Adapter<br/>
 >🤗 Model: https://huggingface.co/VLA-Adapter
 
 
-If you find VLA-Adapter useful for your work please cite:
+If you find VLA-Adapter useful for your work, please cite:
 ```
-@article{Wang2025VLAAdapter,
-  author = {Wang, Yihao and Ding, Pengxiang and Li, Lingxiao and Cui, Can and Ge, Zirui and Tong, Xinyang and Song, Wenxuan and Zhao, Han and Zhao, Wei and Hou, Pengxu and Huang, Siteng and Tang, Yifan and Wang, Wenhui and Zhang, Ru and Liu, Jianyi and Wang, Donglin},
-  title = {VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model},
-  journal = {ArXiv},
-  year = {2025}
+@article{wang2025vlaadapter,
+  author={Wang, Yihao and Ding, Pengxiang and Li, Lingxiao and Cui, Can and Ge, Zirui and Tong, Xinyang and Song, Wenxuan and Zhao, Han and Zhao, Wei and Hou, Pengxu and Huang, Siteng and Tang, Yifan and Wang, Wenhui and Zhang, Ru and Liu, Jianyi and Wang, Donglin},
+  title={VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model},
+  journal={arXiv preprint arXiv:2509.09372},
+  year={2025}
 }
+
 
 ```
 
